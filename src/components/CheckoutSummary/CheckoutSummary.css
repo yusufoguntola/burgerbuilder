@@ -1,0 +1,11 @@
+.Summary {
+    width: 90%;
+    text-align: center;
+    margin: auto;
+}
+
+@media (max-width: 600px) {
+    .Summary {
+        width: 500px;
+    }
+}
